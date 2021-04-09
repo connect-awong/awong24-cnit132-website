@@ -1,0 +1,39 @@
+ body {
+        background-color: #D9E6C0;
+    }
+
+html {
+    background-color: #B3CC80;
+}
+    
+h1 {
+    text-align: center;
+    font-family: monospace, sans-serif;
+    font-size: 24px;
+    background-color: #C6D9A0;
+    margin: 20px 20px;
+    padding: 20px 20px;
+}
+    
+h2 {
+    text-align: center;
+    font-size: 18px;
+}
+    
+p {
+    font-size: 18px;
+}
+
+li {
+    font-size: 18px;
+}   
+    
+.nav {
+    font-weight: bold;
+}
+
+.tip_links {
+        
+}
+
+
